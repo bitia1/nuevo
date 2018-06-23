@@ -1,0 +1,5 @@
+*.pyc
+*~
+*.sqlite3
+temp/
+node_modules/
